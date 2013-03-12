@@ -12,5 +12,4 @@ Omeka and Neatline are written on the LAMP stack (Linux, Apache, MySQL, PHP), wh
 
  - Login credentials for a MySQL user and a clean database for the Omeka installation. If you don't already have a database user account, most commercial hosting providers provide access to point-and-click database administration tools like phpMyAdmin that make it possible to create databases and users.
 
-For detailed instructions on installing Omeka, head over to the [official
-Omeka documentation](http://omeka.org/codex/Installation).
+Once you're ready, head over to the [official Omeka documentation](http://omeka.org/codex/Installation).
